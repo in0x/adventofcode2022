@@ -8,7 +8,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/07.exe",
+            "program": "${workspaceFolder}/12.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

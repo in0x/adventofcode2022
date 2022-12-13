@@ -1,4 +1,4 @@
-../jai/bin/jai.exe $1.jai
+../jai/bin/jai.exe $1.jai -natvis
 if [ $? -eq 0 ]
 then
     ./$1.exe
